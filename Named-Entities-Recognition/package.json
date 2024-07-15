@@ -1,0 +1,17 @@
+{
+  "name": "named-entities-recognition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "EntityRecognition.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "loadash": "^1.0.0",
+    "natural": "^6.5.0",
+    "ner": "^1.0.0"
+  }
+}
